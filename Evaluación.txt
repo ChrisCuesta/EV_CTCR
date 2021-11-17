@@ -1,0 +1,7 @@
+Información Personal:
+Cuesta Tabares
+Christian Roberto
+0987088455
+Lenguajes de Programación: Java, Phyton, C++, C#
+Motores de Base de Datos: SQL Server, Maria DB, MySQL
+
